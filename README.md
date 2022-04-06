@@ -1,8 +1,5 @@
-### Hi there I'm Kacper 👋
+### Hi there, I'm Kacper 👋
 
-- 🔭 I’m currently working on this Git
 - 🌱 I’m currently learning Java, Python
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I love to draw
+- 📫 How to reach me: k1bojanowski@gmail.com
+- 
