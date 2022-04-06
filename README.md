@@ -2,4 +2,3 @@
 
 - 🌱 I’m currently learning Java, Python
 - 📫 How to reach me: k1bojanowski@gmail.com
-- 
