@@ -1,14 +1,10 @@
-<h3 align="center">Hi 👋, I'm Kacper</h1>
-<h5 align="center">A student from Poland</h3>
+<h3 align="center">Hi there👋</h1>
+
+My name is Kacper and i'm currently studying ICT at AGH University in Kraków (Poland). 
 
 - 🌱 I’m currently learning **Python and Java**
 
 - 📫 How to reach me **k1bojanowski@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://fb.com/kacper bojanowski](https://www.facebook.com/kacper.bojanowski.2/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kacper.bojanowski.2" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
