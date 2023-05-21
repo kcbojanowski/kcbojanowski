@@ -4,6 +4,7 @@
 
 - 🔭 Currently expanding knowledge of image analysis
 - 🌱 I’m currently learning Django
+- 🎨 My hobby outside the field of IT is drawing
 - 📫 Reach me via email: **k1bojanowski@gmail.com**
 
 ### Socials:
@@ -28,5 +29,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### Stats:
-[![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcbojanowski&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### Stats: -->
+<!-- [![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcbojanowski&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
