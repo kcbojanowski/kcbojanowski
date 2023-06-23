@@ -3,7 +3,7 @@
  ICT student at AGH University in Kraków (Poland). Python Enjoyer interested in ML, web development and computer graphics. <br>
 
 - 🔭 Currently expanding knowledge of image analysis
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning QA
 - 🎨 My hobby outside the field of IT is drawing
 - 📫 Reach me via email: **k1bojanowski@gmail.com**
 
