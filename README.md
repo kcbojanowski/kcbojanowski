@@ -26,5 +26,5 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
--->
-![](https://leetcard.jacoblin.cool/k1bojanowski?ext=heatmap)
+
+![](https://leetcard.jacoblin.cool/k1bojanowski?ext=heatmap) -->
