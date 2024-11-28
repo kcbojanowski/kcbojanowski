@@ -1,6 +1,6 @@
 <h3 align="center">Hi👋, I'm Kacper</h3>
 
- ICT student at AGH University in Kraków (Poland). Python Enjoyer interested in ML, web development and computer graphics. <br>
+ Software Engineer and Student based in Kraków (Poland). Python Enjoyer interested in ML, web development and computer graphics. <br>
 
 - 🔭 Currently expanding knowledge of DSA and Data Science
 - 🎨 My hobby outside the field of IT is drawing
